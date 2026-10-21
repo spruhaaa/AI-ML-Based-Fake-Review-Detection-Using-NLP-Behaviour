@@ -1,0 +1,25 @@
+.result-box {
+  margin-top: 25px;
+  padding: 20px;
+  border-radius: 10px;
+  background: #e8eaf6;
+  display: inline-block;
+  text-align: left;
+}
+
+.genuine {
+  color: green;
+  font-weight: bold;
+}
+
+.fake {
+  color: red;
+  font-weight: bold;
+}
+
+.probability {
+  margin-top: 10px;
+  font-size: 0.95rem;
+  font-style: italic;
+}
+
